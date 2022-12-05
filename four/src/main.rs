@@ -3,7 +3,7 @@ use std::io::{BufRead, BufReader};
 
 fn main() {
     println!("Day 4");
-    part_two();
+    part_one();
 }
 
 
